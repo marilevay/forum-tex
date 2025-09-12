@@ -1,0 +1,17 @@
+{
+    "name": "ForumTex",
+    "description": "Create LaTeX formulas on Forum",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "forum-tex.html",
+        "default_icon": "forum-tex-icon.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://sle-collaboration.minervaproject.com/?id=*"],
+            "js": ["quillOverride.js"],
+            "run_at": "document_idle"
+        }
+    ]
+}
