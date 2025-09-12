@@ -13,11 +13,11 @@ Finally adding the Math feature for the Forum text editor.
 * Select the unzipped folder. This extension should open to you:
 ![Unpacked Extension on Chrome](demos/forum-tex-demo7.png)
 
-* Now you can access the ForumTex on your extension bar:
-![Extension bar Chrome](demos/forum-tex-demo8.png)
-
 * Make sure to pin the extension so it's always available at your extension bar:
 ![Pinned Extension](demos/forum-tex-demo9.png)
+
+* Now you can access the ForumTex on your extension bar:
+![Extension bar Chrome](demos/forum-tex-demo8.png)
 
 ## Usage and Limitations
 
