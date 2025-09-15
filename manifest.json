@@ -9,7 +9,7 @@
     },
     "content_scripts": [
         {
-            "matches": ["https://sle-collaboration.minervaproject.com/?id=*"],
+            "matches": ["https://sle-collaboration.minervaproject.com/?id=*", "https://sle-collaboration.minervaproject.com/?templateId=*"],
             "js": ["quillOverride.js"],
             "run_at": "document_idle"
         }
