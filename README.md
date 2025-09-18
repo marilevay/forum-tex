@@ -1,6 +1,7 @@
 # ForumTex
-Finally adding the Math feature for the Forum text editor. 
+Finally adding the LaTeX feature for the Forum text editor. 
 
+![Demo GIF](demos/forum-tex-video-demo.gif)
 
 ## How to install 
 
